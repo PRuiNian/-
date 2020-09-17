@@ -1,0 +1,1 @@
+copy /b G:2.jpg+G:1.rar G:output.jpg
